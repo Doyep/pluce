@@ -1,0 +1,29 @@
+@font-face {
+  font-family: 'DreamAvenue';
+  src: url('~/assets/fonts/DreamAvenue.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  src: url('~/assets/fonts/Nunito-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+
+@font-face {
+  font-family: 'GildaDisplay';
+  src: url('~/assets/fonts/GildaDisplay-Regular.ttf') format('truetype');
+  font-display: swap;
+}
+
+.dream-avenue {
+  font-family: 'DreamAvenue';
+}
+
+.gilda-display {
+  font-family: 'GildaDisplay';
+}
+
+.nunito {
+  font-family: 'Nunito';
+}
